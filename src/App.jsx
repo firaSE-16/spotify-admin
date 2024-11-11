@@ -6,7 +6,7 @@ import AddSong from './pages/AddSong';
 import AddAlbum from './pages/AddAlbum';
 import ListSong from './pages/ListSong';
 import ListAlbum from './pages/ListAlbum';
-import SideBar from './components/SideBar';
+import SideBar from './components/Sidebar';
 import Navbar from './components/Navbar';
 
  export const url = "http://localhost:10000";
